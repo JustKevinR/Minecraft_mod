@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "schoolmod:block/amethyst_block",
+    "top": "schoolmod:block/amethyst_block",
+    "side": "schoolmod:block/amethyst_block"
+  }
+}

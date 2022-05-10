@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "schoolmod:block/amethyst_block"
+  }
+}

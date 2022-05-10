@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "schoolmod:block/amethyst_slab"
+    },
+    "type=double": {
+      "model": "schoolmod:block/amethyst_block"
+    },
+    "type=top": {
+      "model": "schoolmod:block/amethyst_slab_top"
+    }
+  }
+}

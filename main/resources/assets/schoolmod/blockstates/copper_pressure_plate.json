@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "schoolmod:block/copper_pressure_plate" },
+    "powered=true": { "model": "schoolmod:block/copper_pressure_plate_down" }
+  }
+}
