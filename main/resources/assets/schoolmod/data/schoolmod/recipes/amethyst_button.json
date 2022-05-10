@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:gems/amethyst"
+    }
+  ],
+  "result": {
+    "item": "schoolmod:amethyst_button"
+  }
+}

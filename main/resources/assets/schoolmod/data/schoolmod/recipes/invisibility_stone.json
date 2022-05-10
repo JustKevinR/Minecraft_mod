@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SAS",
+    " S "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:golden_carrot"
+    },
+    "S": {
+      "item": "schoolmod:runestone"
+    }
+  },
+  "result": {
+    "item": "schoolmod:invisibility_stone",
+    "count": 2
+  }
+}

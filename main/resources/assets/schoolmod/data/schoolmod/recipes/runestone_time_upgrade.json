@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASA",
+    "S#S",
+    "ASA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "schoolmod:runestone"
+    },
+    "#": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "schoolmod:runestone_time_upgrade",
+    "count": 2
+  }
+}

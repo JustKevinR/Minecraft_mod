@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sticks",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/amethyst"
+    }
+  },
+  "result": {
+    "item": "schoolmod:amethyst_stick",
+    "count": 4
+  }
+}

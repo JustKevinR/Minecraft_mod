@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "schoolmod:ultimate_water_breathing_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_strength_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_speed_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_resistance_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_regeneration_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_night_vision_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_invisibility_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_haste_stone"
+    },
+    {
+      "item": "schoolmod:ultimate_fire_resistance_stone"
+    }
+  ],
+  "result": {
+    "item": "schoolmod:infinity_stones"
+  }
+}

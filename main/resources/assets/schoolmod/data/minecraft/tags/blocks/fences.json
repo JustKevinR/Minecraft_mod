@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "schoolmod:amethyst_fence",
+    "schoolmod:copper_fence",
+    "schoolmod:ruby_fence",
+    "#minecraft:wooden_fences",
+    "minecraft:nether_brick_fence"
+  ]
+}
