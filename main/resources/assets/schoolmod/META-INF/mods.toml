@@ -29,12 +29,16 @@ displayName="School Mod" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="examplemod.png" #optional
 # A text field displayed in the mod UI
-credits="Thanks for this example mod goes to Java" #optional
+credits="Java, kerrnit & Felusional," #optional
 # A text field displayed in the mod UI
-authors="Cheese" #optional
+authors="Joonas Hendrik Peet & Kevin Reinov" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-This is a long form description of the mod. You can write whatever you want here
+This mod is made as our final work for the end of our IT class. This mod offers a new variety
+of items and tools which we all wanted at one time or another in our childhood. The mod provides
+your world to 3 new ores, copper, ruby and amethyst. All which you can use in crafting, along with Emerald.
+BETA: To use the portal you need to use Warped wart blocks the same way as you would make a nether portal and
+use the special new Flint And Steel which isnt obtainable in survival.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.examplemod]] #optional
