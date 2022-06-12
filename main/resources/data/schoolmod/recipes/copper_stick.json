@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sticks",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/copper"
+    }
+  },
+  "result": {
+    "item": "schoolmod:copper_stick",
+    "count": 4
+  }
+}

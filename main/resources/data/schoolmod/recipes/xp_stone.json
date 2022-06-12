@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "AS#"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sugar"
+    },
+    "S": {
+      "item": "schoolmod:runestone"
+    },
+    "#": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "schoolmod:xp_stone",
+    "count": 2
+  }
+}

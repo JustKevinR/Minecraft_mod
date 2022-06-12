@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SAS",
+    " S "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:pufferfish"
+    },
+    "S": {
+      "item": "schoolmod:runestone"
+    }
+  },
+  "result": {
+    "item": "schoolmod:water_breathing_stone",
+    "count": 2
+  }
+}

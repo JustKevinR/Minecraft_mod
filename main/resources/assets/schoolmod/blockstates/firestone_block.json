@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : {"model" : "schoolmod:block/firestone_block"}
+  }
+}

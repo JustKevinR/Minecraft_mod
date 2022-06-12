@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "LAK",
+    "#S#"
+  ],
+  "key": {
+    "A": {
+      "item": "schoolmod:resistance_stone"
+    },
+    "S": {
+      "item": "schoolmod:runestone"
+    },
+    "#": {
+      "item": "minecraft:gold_block"
+    },
+    "K": {
+      "item": "schoolmod:runestone_strength_upgrade"
+    },
+    "L": {
+      "item": "schoolmod:runestone_time_upgrade"
+    }
+  },
+  "result": {
+    "item": "schoolmod:ultimate_resistance_stone",
+    "count": 1
+  }
+}

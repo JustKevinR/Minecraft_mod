@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SAS",
+    "#S#"
+  ],
+  "key": {
+    "A": {
+      "item": "schoolmod:fire_resistance_stone"
+    },
+    "#": {
+      "tag": "forge:gems/ruby"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "schoolmod:firestone_block",
+    "count": 4
+  }
+}

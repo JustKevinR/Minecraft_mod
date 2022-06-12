@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASA",
+    "SAS",
+    "ASA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:golden_carrot"
+    },
+    "S": {
+      "item": "schoolmod:runestone"
+    }
+  },
+  "result": {
+    "item": "schoolmod:night_vision_stone",
+    "count": 2
+  }
+}
